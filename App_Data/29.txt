@@ -1,0 +1,45 @@
+🌙 Nix at a Glance
+Property	Details
+🌍 Orbits	Pluto
+🧠 Name Origin	Named after Nyx, Greek goddess of night (spelled Nix to avoid conflict with asteroid 3908 Nyx)
+📏 Size	~49.8 × 33.2 km (irregular shape)
+🔁 Rotation	Chaotic – does not rotate regularly
+🌌 Distance from Pluto	~48,700 km
+🌀 Orbital Period	~24.9 Earth days
+💡 Reflectivity	High (bright, icy surface)
+🛰 Visited by	Imaged by New Horizons in 2015
+📅 Discovered	2005 (Hubble Space Telescope)
+🔭 Discovery and Naming
+Discovered by the Hubble Space Telescope in 2005, along with Hydra.
+
+Named after Nix, the mother of Charon (ferryman of the dead) in Greek mythology — a fitting theme for Pluto’s moons, all named after underworld figures.
+
+🧊 Surface and Appearance
+Color: Pale, slightly reddish
+
+Surface: Likely composed of water ice, with few visible craters, suggesting relatively young surface regions.
+
+New Horizons captured images showing crater-like depressions, which hint at past collisions.
+
+🔁 Rotation and Orbit
+Chaotic rotation: Unlike Earth’s Moon, Nix spins unpredictably — tumbling as it orbits Pluto due to the complex gravitational effects of Pluto and Charon.
+
+It’s not tidally locked like Charon.
+
+The orbit is nearly circular and in the same plane as Pluto’s other small moons.
+
+🛰 New Horizons Discoveries
+First detailed images of Nix showed its irregular shape and bright surface.
+
+Confirmed the chaotic motion of Pluto’s small moons.
+
+Helped scientists understand more about the formation and evolution of the Pluto system — likely formed by a giant impact.
+
+🌌 Why Nix Matters
+Nix, despite its small size, is key to understanding:
+
+The aftermath of the Pluto–Charon collision
+
+The dynamics of multi-moon systems
+
+How icy bodies behave in chaotic orbital environments
